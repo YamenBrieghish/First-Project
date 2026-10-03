@@ -1,0 +1,1 @@
+select * from expenses order by id
