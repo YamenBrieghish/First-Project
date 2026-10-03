@@ -31,6 +31,7 @@ A full-stack web application that allows users to track their daily expenses, vi
 - [x] Filter by category
 - [x] Summary cards (total, count, highest)
 - [x] Data is saved in a PostgreSQL database
+- [x] Dark Mode
 
 ## Screenshots
 
@@ -44,3 +45,6 @@ The most challenging part was managing the frontend state and ensuring the UI re
 
 -Video Link:
 https://drive.google.com/file/d/1DafRjS7p2R5kNWK7-BwmE2tHnr8uDOSZ/view?usp=sharing
+
+-GitHub Repo Link:
+https://github.com/YamenBrieghish/First-Project
